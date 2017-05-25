@@ -1,20 +1,21 @@
 # slideshare-downloader
 
-# Overview
+## Overview
 任意のスライドの画像をダウンロードします
 
-# Description
+## Description
 お世話になってたslideshare-downloaderが(私は)使えなくなったので、pythonで書いてみた
 
-# Requirement
+## Requirement
 Python3
 
-# Usage
+## Usage
 $ ./slideshare-downloader [Enter]
+
 <URLを入力>
 
 現在のディレクトリにダウンロードします
 
-# Otherwise
+## Otherwise
 
 Slideshareの規約に従いましょう！(そっと目を逸らす)
