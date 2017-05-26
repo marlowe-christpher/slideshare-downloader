@@ -12,10 +12,15 @@ Python3
 ## Usage
 $ ./slideshare-downloader [Enter]
 
-<URLを入力>
+<URLを入力> [Enter]
 
 現在のディレクトリにダウンロードします
 
 ## Otherwise
 
 Slideshareの規約に従いましょう！(そっと目を逸らす)
+
+## Idea
+
+・ダウンロードした後にPDF化するまでやりたい
+・プログラム起動した後にEnterするの面倒なので引数を渡せる様にしたい
